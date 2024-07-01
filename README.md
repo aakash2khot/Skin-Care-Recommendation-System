@@ -9,3 +9,9 @@ In the realm of skincare, selecting suitable products amidst the abundance avail
 2) EDA: Explored rating distributions, skin tone/type distributions, and word cloud analysis.
 3) Recommendation Approaches: Customer Feature Based, Collaborative Filtering with LightFM, Collaborative Filtering with LightFM and Content Based
 4) Facial Image Analysis: Skin type classification with ResNet and skin condition detection with Vision Transformer.
+
+## Conclusion
+
+In conclusion, our personalized skincare recommendation system integrates various techniques such as collaborative filtering, content-based filtering, facial image analysis, and deep learning models to deliver tailored product suggestions. Through comprehensive data analysis and model evaluation, we demonstrate the system's efficacy in simplifying product selection and enhancing user satisfaction.
+
+Please refer to the Report for detailed view of project.
